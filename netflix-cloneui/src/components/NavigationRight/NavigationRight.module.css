@@ -1,0 +1,13 @@
+.box {
+    display: flex;
+    align-items: center;
+    margin: 0 60px;
+}
+
+.navItem {
+    margin-left: 2rem;
+}
+
+.dropdown {
+    margin-left: 0.7rem;
+}

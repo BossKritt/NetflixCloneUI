@@ -1,0 +1,15 @@
+.box {
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+.iconLink {
+    margin-right: 1rem;
+}
+
+.logoIcon {
+    width: 36px;
+    height: 25px;
+}
